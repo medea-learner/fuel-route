@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Django specific
+*.log
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Environment variables
+.env
+*.env
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Migrations (optional, if you want to exclude generated migrations)
+*/migrations/* 
+!*/migrations/__init__.py
+
+# Static and compiled assets
+staticfiles/
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+.hypothesis/
+
+# Deployment related
+*.pem
+.DS_Store
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Cache files
+*.cache
+*.mo
+*.pid
+
+# MyPy and type hints
+.mypy_cache/
+.dmypy.json
+.pyre/

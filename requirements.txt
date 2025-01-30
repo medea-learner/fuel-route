@@ -1,0 +1,12 @@
+Django==3.2.23
+djangorestframework
+openrouteservice
+pandas
+python-dotenv
+polyline
+reverse_geocode
+geopy
+GDAL
+psycopg2
+django-extensions
+# django-cors-headers
