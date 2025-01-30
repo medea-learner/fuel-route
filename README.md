@@ -1,6 +1,3 @@
-Here’s a `README.md` template for your fuel route Django API project:  
-
-```markdown
 # Fuel Route API 🚗⛽
 
 This is a Django-based API that calculates the optimal route between two U.S. locations, identifies the best refueling stops, and estimates fuel costs based on provided fuel price data.
