@@ -69,8 +69,8 @@ This is a Django-based API that calculates the optimal route between two U.S. lo
 #### Request Body:
 ```json
 {
-  "start": "New York, NY",
-  "end": "Los Angeles, CA"
+  "start": [-87.6298, 40.8781],
+  "end": [-122.3321, 47.6062]
 }
 ```
 
